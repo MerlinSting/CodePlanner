@@ -22,7 +22,7 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 **Included Software:**
 
-This software includes the tldraw library, which is licensed under a separate license. The terms and conditions for the use of tldraw are provided in the file `LICENSE-TLDRAW.txt`.
+This software includes the tldraw library, which is licensed under a separate license. The terms and conditions for the use of tldraw are provided in the file `LICENSE-TLDRAW.md`.
 
-By using this software, you acknowledge that your use of the tldraw library is governed by the terms and conditions of the `LICENSE-TLDRAW.txt` file. You are specifically required to adhere to the conditions outlined in the tldraw license, including but not limited to the requirements regarding the tldraw Watermark and license key validation.
+By using this software, you acknowledge that your use of the tldraw library is governed by the terms and conditions of the `LICENSE-TLDRAW.md` file. You are specifically required to adhere to the conditions outlined in the tldraw license, including but not limited to the requirements regarding the tldraw Watermark and license key validation.
 --------------------------------------------------------------------------------
